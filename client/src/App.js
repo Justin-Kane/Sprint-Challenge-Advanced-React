@@ -4,8 +4,6 @@ import Axios from 'axios';
 import PlayerData from './Components/PlayerData';
 import Nav from './Components/Nav';
 
-
-
 class App extends React.Component {
   state = {
     data: [],
