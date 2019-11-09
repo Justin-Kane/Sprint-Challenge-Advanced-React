@@ -4,7 +4,7 @@ import Axios from 'axios';
 import PlayerData from './Components/PlayerData';
 import Nav from './Components/Nav';
 
-import './src/App.css';
+
 
 class App extends React.Component {
   state = {
